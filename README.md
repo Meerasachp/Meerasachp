@@ -1,5 +1,4 @@
-                                                                                                👋 Hi, I’m @Meerasachp
-                                                                                                
+- 👋 Hi, I’m @Meerasachp                                                                                                
 - 🚀 DevOps Engineer | Cloud | Automation
 - 🔍 Passionate about automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.
 - 🌱 I’m currently learning advanced Ansible automation, GitHub Actions, Terraform, Docker, and CI/CD best practices for cloud-native environments.
