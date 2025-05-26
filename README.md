@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meerasachp                                                                                                
-- 🚀 DevOps Engineer | Cloud | Automation
+- 🚀 ML Ops Engineer | LLM | Cloud | DevOps | Automation
 - 🔍 Passionate about automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.
 - 🌱 I’m currently learning advanced Ansible automation, GitHub Actions, Terraform, Docker, and CI/CD best practices for cloud-native environments.
 - 🛠️ Tech I work with:  ML Ops / Cloud | Automation | AWS | CI/CD | Docker | Kubernetes | Terraform | Python  
